@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amalkrishna0&label=Profile%20views&color=0e75b6&style=flat" alt="amalkrishna0" /> </p>
 
-- 🌱 I’m currently learning **React , MongoDB**
 
 - 📫 How to reach me **amalkrishna528@gmail.com**
 
